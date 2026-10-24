@@ -45,11 +45,11 @@ I build production-grade AI systems — from multi-stage LLM agent workflows to 
 
 | Project | Description | Stack |
 |---|---|---|
+| [**AirDisplay**](https://github.com/Shaojie66/AirDisplay) | Experimental Mac-to-Mac wired extended display over Thunderbolt Bridge, with hardware video encoding, keyboard and trackpad forwarding, and iPad Sidecar coexistence | Swift · macOS · ScreenCaptureKit · VideoToolbox |
+| [**tarot**](https://github.com/Shaojie66/tarot) | Local-first tarot reflection app with rule-based readings, optional LLM assistance, and browser-local history | TypeScript · Next.js · React · Tailwind CSS |
 | [**murder-mystery-ai-workflow**](https://github.com/Shaojie66/murder-mystery-ai-workflow) | Multi-stage LLM agent system for creative content generation — 8-phase orchestration, multi-provider LLM abstraction, full-stack web app with SSE streaming | Python · LLM · React · Docker · PyPI |
-| [**bilibili-rag**](https://github.com/Shaojie66/bilibili-rag) | RAG (Retrieval-Augmented Generation) pipeline for Bilibili video content understanding and Q&A | Python · RAG · LLM |
-| [**personal-color-diagnosis-skill**](https://github.com/Shaojie66/personal-color-diagnosis-skill) | AI-powered image analysis skill for personal color diagnosis with structured visual reports | Python · Computer Vision · AI |
-| [**fragment-vocab**](https://github.com/Shaojie66/fragment-vocab) | macOS menu-bar vocabulary learning tool built in Rust — performance-first, minimal UI | Rust · macOS |
-| [**roll-roll-roll-game**](https://github.com/Shaojie66/roll-roll-roll-game) | 3D grid puzzle game built with Godot — game logic, physics, and level design | GDScript · Godot |
+| [**AI-Learning-Notes**](https://github.com/Shaojie66/AI-Learning-Notes) | Beginner-friendly Chinese notes on AI and statistics, with R examples and course study guides | R · Markdown |
+| [**paper-reading-notes**](https://github.com/Shaojie66/paper-reading-notes) | AI-assisted reading notes on foundational AI papers, with HTML diagrams and a reusable paper-reading skill | Markdown · HTML · AI Skills |
 
 ---
 
